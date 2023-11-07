@@ -1,4 +1,4 @@
-### discord irinayummii
+### discord `irinayummii`
 
 <!-- # ⭕ Tic-Tac-Toe -->
 
